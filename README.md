@@ -1,5 +1,6 @@
 # estudo_dio_buzzfeed_quizz_clone_angular
 Estudo DIO BuzzFeed Quizz Clone Angular
+<br>Luis Antonio Freitas<br>
 
 # ProjetoBuzzfeed
 
